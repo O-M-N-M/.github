@@ -1,5 +1,5 @@
 # O-N-M-N_2022_PROJECT
-![header](https://capsule-render.vercel.app/api?type=waving&color=6BBEE2&height=300&section=header&text=O-M-N-M&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=1CDDAD&height=300&section=header&text=O-M-N-M&fontSize=90)
 
 ### 목차
 
