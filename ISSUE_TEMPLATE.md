@@ -1,12 +1,10 @@
-## 종류
-
-ISSUE 종류를 선택하세요
+### ISSUE 종류
 
 - [ ] New Feature
 - [ ] Bug Fix
-- [ ] CI / CD
-- [ ] Setup
+- [ ] Communicate
+- [ ] Etc
 
-## 내용
+### ISSUE TASKS
 
-- 내용 명: 내용을 작성합니다.
+- [ ] TASK 명 쫘르륵 작성 ~
